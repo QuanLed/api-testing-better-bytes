@@ -1,0 +1,9 @@
+Website: https://pw-practice-dev.playwrightvn.com/wp-login.php
+Username: a101
+Password: !NE%Mdymzat@LWPaQKPau5JJ!NE%Mdymzat@LWPaQKPau5JJ
+
+--> cookies:
+wordpress_logged_in_e778134cbff8432635b7b4b45a7ba56c = a101%7C1743524621%7CbTfYOkeHbMiLrn6dXqivLG4LNtCwlJb0ZJKLcy73zTH%7Caa0d86e64ce2bfd7c96523d6abdc3fb38d7fd09bf58d02745a2d5a56d04173a6
+wordpress_sec_e778134cbff8432635b7b4b45a7ba56c = a101%7C1743524621%7CbTfYOkeHbMiLrn6dXqivLG4LNtCwlJb0ZJKLcy73zTH%7C199b470732724d74dac6dea329d902201d495e6c7bb752be2dbe2f5ecb64eeb5
+wordpress_test_cookie = WP%20Cookie%20check
+wp-settings-time-60 = 1742315021

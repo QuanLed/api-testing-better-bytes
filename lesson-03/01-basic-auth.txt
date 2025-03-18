@@ -1,0 +1,7 @@
+Username: bba_academy
+Password: a101_class_secret
+
+--> basic auth token = YmJhX2FjYWRlbXk6YTEwMV9jbGFzc19zZWNyZXQ=
+
+Postman:
+Authorization : Basic YmJhX2FjYWRlbXk6YTEwMV9jbGFzc19zZWNyZXQ=
