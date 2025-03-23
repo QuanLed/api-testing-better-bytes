@@ -1,0 +1,25 @@
+JSON:
+{
+  "name": "Kepler-22b",
+  "distanceToEarth": 587,
+  "habitable": "yes",
+  "countriesVisited": [
+    "Việt Nam",
+    "Campuchia",
+    "Thái Lan"
+  ]
+}
+
+XML:
+<planet>
+    <name>Kepler-22b</name>
+    <distanceToEarth>587</distanceToEarth>
+    <habitable>yes</habitable>
+    <countriesVisited>Việt Nam</countriesVisited>
+    <countriesVisited>Campuchia</countriesVisited>
+    <countriesVisited>Thái Lan</countriesVisited>
+</planet>
+
+JSON tối ưu hơn XML, vì:
+1. JSON có cú pháp đơn giản, ngắn gọn, dễ đọc và dễ viết hơn so với XML, giúp giảm kích thước dữ liệu truyền tải, tiết kiệm băng thông và tăng tốc độ xử lý.
+2. JSON có tính linh hoạt cao trong việc biểu diễn các cấu trúc dữ liệu phức tạp.
